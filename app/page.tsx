@@ -8,7 +8,7 @@ export default function Home() {
   })
     return(
       <div className="bg-red-400 h-full flex justify-center items-center">
-        <div className="text-black">My running app</div>
+        <div className="text-black">My running app...checking the CI pipeline</div>
       </div>
     )
 }
